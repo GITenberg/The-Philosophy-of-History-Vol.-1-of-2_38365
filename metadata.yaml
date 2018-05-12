@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '35760'
     url: http://www.gutenberg.org/2009/agents/35760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38365#The-Philosophy-of-History-Vol.-1-of-2
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
