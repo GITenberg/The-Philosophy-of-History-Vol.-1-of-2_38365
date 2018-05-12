@@ -1,0 +1,39 @@
+_repo: The-Philosophy-of-History-Vol.-1-of-2_38365
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Robertson, James Burton
+    alias: Robertson, J. B. (James Burton)
+    birthdate: 1800
+    deathdate: 1877
+    gutenberg_agent_id: '39422'
+    url: http://www.gutenberg.org/2009/agents/39422
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schlegel, Friedrich von
+    aliases:
+    - Schlegel, Karl Wilhelm Friedrich von
+    - Von Schlegel, Friedrich
+    - Schlegel, Friedrich
+    birthdate: 1772
+    deathdate: 1829
+    gutenberg_agent_id: '35760'
+    url: http://www.gutenberg.org/2009/agents/35760
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'History'
+- !lcc 'D'
+title: The Philosophy of History, Vol. 1 of 2
+url: http://www.gutenberg.org/ebooks/38365
